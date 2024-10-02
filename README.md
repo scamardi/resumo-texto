@@ -48,7 +48,7 @@ O **Resumidor de Texto** é uma aplicação desenvolvida para resumir textos da 
    - Mude a variável `POSTGRES_HOSTNAME` para `localhost`.
    - Aponte o caminho do arquivo `.env` para o seguinte:
    ```plaintext
-   .../resumidorTexto/.env
+   .../.env
    ```
 
 ## Monitoramento com Prometheus
